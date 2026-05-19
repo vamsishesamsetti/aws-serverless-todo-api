@@ -97,3 +97,12 @@ DynamoDB is PAY_PER_REQUEST (no idle cost). Lambda free tier covers 1M invocatio
 ## License
 
 MIT
+
+
+---
+
+## Author
+
+**Vamsi Shesamsetti** — Full-Stack Developer · Cloud Engineer · M.S. CS @ FAU (May 2026)
+
+🌐 [vamsishesamsetti.dev](https://vamsishesamsetti.dev) · 💼 [LinkedIn](https://linkedin.com/in/vamsishesamsetti) · 🐙 [GitHub](https://github.com/vamsishesamsetti) · ✉️ shesamsettivamsi11@gmail.com
